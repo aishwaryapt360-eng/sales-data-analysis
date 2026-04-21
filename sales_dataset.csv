@@ -1,0 +1,201 @@
+OrderID,Date,Customer,Region,Category,Product,Sales,Profit,Quantity,Order_Status
+1001,2024-01-01,Customer D,West,Office Supplies,Product A,863,266,7,Cancelled
+1002,2024-01-02,Customer E,North,Furniture,Product D,837,262,7,Delivered
+1003,2024-01-03,Customer C,East,Technology,Product B,905,50,3,Cancelled
+1004,2024-01-04,Customer E,East,Furniture,Product A,405,59,3,In-Process
+1005,2024-01-05,Customer E,South,Furniture,Product C,197,248,2,Returned
+1006,2024-01-06,Customer B,North,Technology,Product D,949,55,1,Cancelled
+1007,2024-01-07,Customer C,Central,Furniture,Product A,897,242,7,Cancelled
+1008,2024-01-08,Customer C,North,Office Supplies,Product A,434,25,7,In-Process
+1009,2024-01-09,Customer C,South,Furniture,Product D,958,239,2,Cancelled
+1010,2024-01-10,Customer E,South,Technology,Product A,534,94,7,Cancelled
+1011,2024-01-11,Customer D,North,Technology,Product B,546,23,8,In-Process
+1012,2024-01-12,Customer C,South,Technology,Product A,407,153,1,Delivered
+1013,2024-01-13,Customer E,North,Furniture,Product B,348,137,9,In-Process
+1014,2024-01-14,Customer B,West,Technology,Product B,265,113,7,Delivered
+1015,2024-01-15,Customer D,North,Technology,Product D,580,81,3,Returned
+1016,2024-01-16,Customer B,North,Furniture,Product A,434,213,8,Delivered
+1017,2024-01-17,Customer D,South,Office Supplies,Product D,641,222,7,Delivered
+1018,2024-01-18,Customer E,South,Furniture,Product A,858,45,8,Returned
+1019,2024-01-19,Customer A,East,Technology,Product A,205,192,6,Delivered
+1020,2024-01-20,Customer D,East,Technology,Product C,662,152,9,In-Process
+1021,2024-01-21,Customer B,West,Furniture,Product A,180,137,5,Delivered
+1022,2024-01-22,Customer E,East,Office Supplies,Product D,232,294,3,Returned
+1023,2024-01-23,Customer D,North,Technology,Product B,896,231,3,In-Process
+1024,2024-01-24,Customer A,South,Technology,Product A,999,244,1,Returned
+1025,2024-01-25,Customer A,East,Technology,Product C,237,39,8,Returned
+1026,2024-01-26,Customer C,East,Furniture,Product D,283,132,2,Cancelled
+1027,2024-01-27,Customer C,West,Technology,Product A,500,159,3,Cancelled
+1028,2024-01-28,Customer B,West,Office Supplies,Product D,429,66,8,Returned
+1029,2024-01-29,Customer D,North,Technology,Product C,884,20,8,Returned
+1030,2024-01-30,Customer D,South,Technology,Product C,607,109,4,Returned
+1031,2024-01-31,Customer C,West,Office Supplies,Product D,951,161,4,Cancelled
+1032,2024-02-01,Customer D,East,Technology,Product A,168,57,5,Cancelled
+1033,2024-02-02,Customer D,South,Furniture,Product B,645,158,6,Delivered
+1034,2024-02-03,Customer A,South,Furniture,Product C,873,278,5,Delivered
+1035,2024-02-04,Customer C,East,Furniture,Product A,152,180,7,Returned
+1036,2024-02-05,Customer E,West,Office Supplies,Product A,549,197,2,In-Process
+1037,2024-02-06,Customer C,East,Technology,Product B,304,29,7,In-Process
+1038,2024-02-07,Customer E,South,Furniture,Product C,225,280,7,Cancelled
+1039,2024-02-08,Customer A,Central,Office Supplies,Product C,846,157,1,Cancelled
+1040,2024-02-09,Customer B,Central,Technology,Product A,142,191,7,Cancelled
+1041,2024-02-10,Customer D,North,Office Supplies,Product A,851,32,5,Returned
+1042,2024-02-11,Customer A,East,Furniture,Product B,982,187,3,In-Process
+1043,2024-02-12,Customer D,East,Furniture,Product B,210,149,3,Delivered
+1044,2024-02-13,Customer B,North,Furniture,Product C,860,103,4,Returned
+1045,2024-02-14,Customer B,North,Office Supplies,Product D,762,120,2,Delivered
+1046,2024-02-15,Customer A,North,Office Supplies,Product C,282,292,2,Delivered
+1047,2024-02-16,Customer B,South,Furniture,Product A,947,284,1,Returned
+1048,2024-02-17,Customer E,East,Office Supplies,Product C,194,57,5,Delivered
+1049,2024-02-18,Customer B,South,Furniture,Product D,473,113,4,In-Process
+1050,2024-02-19,Customer D,North,Furniture,Product B,619,114,2,Delivered
+1051,2024-02-20,Customer D,East,Technology,Product D,999,88,3,In-Process
+1052,2024-02-21,Customer D,South,Office Supplies,Product D,459,255,7,In-Process
+1053,2024-02-22,Customer D,South,Furniture,Product D,999,156,7,In-Process
+1054,2024-02-23,Customer E,North,Furniture,Product B,795,95,4,Cancelled
+1055,2024-02-24,Customer C,East,Office Supplies,Product D,380,54,5,Delivered
+1056,2024-02-25,Customer A,North,Technology,Product D,294,20,5,Returned
+1057,2024-02-26,Customer D,East,Technology,Product D,963,79,6,Returned
+1058,2024-02-27,Customer B,Central,Furniture,Product A,294,286,9,Delivered
+1059,2024-02-28,Customer D,West,Office Supplies,Product D,766,248,2,Cancelled
+1060,2024-02-29,Customer B,West,Technology,Product B,192,289,5,Cancelled
+1061,2024-03-01,Customer B,West,Office Supplies,Product D,771,232,3,In-Process
+1062,2024-03-02,Customer D,North,Office Supplies,Product D,160,184,4,Delivered
+1063,2024-03-03,Customer E,Central,Furniture,Product B,733,24,6,Delivered
+1064,2024-03-04,Customer B,East,Technology,Product D,150,97,8,Returned
+1065,2024-03-05,Customer B,South,Furniture,Product B,502,81,1,Delivered
+1066,2024-03-06,Customer D,East,Technology,Product D,888,151,8,Cancelled
+1067,2024-03-07,Customer B,South,Technology,Product B,104,108,7,Delivered
+1068,2024-03-08,Customer B,East,Technology,Product D,565,256,1,Returned
+1069,2024-03-09,Customer D,Central,Technology,Product D,703,61,2,In-Process
+1070,2024-03-10,Customer D,South,Technology,Product A,781,108,3,Returned
+1071,2024-03-11,Customer A,North,Office Supplies,Product A,928,123,1,Returned
+1072,2024-03-12,Customer E,East,Furniture,Product D,633,33,9,In-Process
+1073,2024-03-13,Customer E,East,Office Supplies,Product D,504,198,8,Returned
+1074,2024-03-14,Customer B,South,Technology,Product C,937,144,2,Returned
+1075,2024-03-15,Customer E,North,Furniture,Product B,612,42,9,Delivered
+1076,2024-03-16,Customer B,North,Technology,Product C,744,82,7,Delivered
+1077,2024-03-17,Customer A,Central,Furniture,Product A,332,162,9,In-Process
+1078,2024-03-18,Customer D,North,Office Supplies,Product A,623,172,6,Delivered
+1079,2024-03-19,Customer D,North,Furniture,Product A,445,164,6,Delivered
+1080,2024-03-20,Customer D,North,Furniture,Product A,145,244,4,Returned
+1081,2024-03-21,Customer E,West,Furniture,Product D,645,123,2,Cancelled
+1082,2024-03-22,Customer A,Central,Furniture,Product A,177,123,7,Delivered
+1083,2024-03-23,Customer E,East,Furniture,Product D,829,58,5,Cancelled
+1084,2024-03-24,Customer E,South,Technology,Product D,912,217,6,Delivered
+1085,2024-03-25,Customer A,East,Furniture,Product A,172,153,2,Delivered
+1086,2024-03-26,Customer A,Central,Furniture,Product A,893,86,5,In-Process
+1087,2024-03-27,Customer A,South,Office Supplies,Product B,348,198,4,In-Process
+1088,2024-03-28,Customer A,Central,Furniture,Product C,146,61,9,In-Process
+1089,2024-03-29,Customer D,North,Office Supplies,Product A,220,34,6,Cancelled
+1090,2024-03-30,Customer C,South,Technology,Product B,313,130,2,Returned
+1091,2024-03-31,Customer C,North,Furniture,Product B,338,176,1,Delivered
+1092,2024-04-01,Customer A,East,Office Supplies,Product C,155,250,5,Delivered
+1093,2024-04-02,Customer C,East,Office Supplies,Product D,449,176,9,Delivered
+1094,2024-04-03,Customer C,South,Technology,Product A,206,57,6,Cancelled
+1095,2024-04-04,Customer A,South,Furniture,Product C,930,116,7,In-Process
+1096,2024-04-05,Customer C,Central,Furniture,Product A,147,273,5,Returned
+1097,2024-04-06,Customer E,Central,Office Supplies,Product B,672,215,6,Cancelled
+1098,2024-04-07,Customer B,North,Furniture,Product B,436,105,5,In-Process
+1099,2024-04-08,Customer B,South,Office Supplies,Product D,125,29,9,Cancelled
+1100,2024-04-09,Customer A,East,Furniture,Product B,903,24,6,Returned
+1101,2024-04-10,Customer D,Central,Office Supplies,Product B,356,142,8,In-Process
+1102,2024-04-11,Customer A,Central,Furniture,Product C,107,137,2,Cancelled
+1103,2024-04-12,Customer D,East,Technology,Product A,724,178,9,Returned
+1104,2024-04-13,Customer B,Central,Furniture,Product A,966,247,5,Delivered
+1105,2024-04-14,Customer A,North,Furniture,Product C,352,235,7,Returned
+1106,2024-04-15,Customer E,South,Technology,Product D,791,203,1,Delivered
+1107,2024-04-16,Customer C,East,Furniture,Product A,818,34,5,Cancelled
+1108,2024-04-17,Customer D,South,Technology,Product B,402,176,2,In-Process
+1109,2024-04-18,Customer C,Central,Furniture,Product A,738,155,6,In-Process
+1110,2024-04-19,Customer C,Central,Office Supplies,Product B,155,280,1,Cancelled
+1111,2024-04-20,Customer A,East,Office Supplies,Product D,825,176,3,In-Process
+1112,2024-04-21,Customer C,North,Furniture,Product C,625,66,5,In-Process
+1113,2024-04-22,Customer E,West,Furniture,Product A,573,192,4,Delivered
+1114,2024-04-23,Customer C,East,Furniture,Product C,127,149,3,Cancelled
+1115,2024-04-24,Customer A,West,Office Supplies,Product A,177,114,5,Returned
+1116,2024-04-25,Customer E,West,Furniture,Product B,315,134,8,Delivered
+1117,2024-04-26,Customer B,North,Office Supplies,Product C,485,262,4,Cancelled
+1118,2024-04-27,Customer C,West,Technology,Product A,464,88,1,Delivered
+1119,2024-04-28,Customer A,West,Office Supplies,Product B,765,167,7,Returned
+1120,2024-04-29,Customer B,North,Office Supplies,Product C,625,30,8,Returned
+1121,2024-04-30,Customer B,West,Technology,Product C,798,273,3,Cancelled
+1122,2024-05-01,Customer D,West,Office Supplies,Product A,411,57,6,Returned
+1123,2024-05-02,Customer E,West,Furniture,Product A,982,153,2,Delivered
+1124,2024-05-03,Customer C,East,Furniture,Product A,106,219,7,Returned
+1125,2024-05-04,Customer A,East,Office Supplies,Product B,102,42,8,Delivered
+1126,2024-05-05,Customer D,East,Furniture,Product A,722,237,6,Delivered
+1127,2024-05-06,Customer E,North,Office Supplies,Product C,849,160,6,Returned
+1128,2024-05-07,Customer D,Central,Furniture,Product C,462,123,5,Cancelled
+1129,2024-05-08,Customer E,West,Furniture,Product A,850,229,8,In-Process
+1130,2024-05-09,Customer E,West,Office Supplies,Product A,607,130,1,Returned
+1131,2024-05-10,Customer C,North,Furniture,Product D,373,123,4,Delivered
+1132,2024-05-11,Customer E,West,Office Supplies,Product C,605,190,4,Delivered
+1133,2024-05-12,Customer D,East,Furniture,Product B,905,152,3,Returned
+1134,2024-05-13,Customer E,Central,Furniture,Product D,838,146,3,Cancelled
+1135,2024-05-14,Customer C,South,Technology,Product A,982,125,4,Cancelled
+1136,2024-05-15,Customer C,West,Technology,Product A,114,111,1,Delivered
+1137,2024-05-16,Customer D,East,Office Supplies,Product C,291,70,2,Delivered
+1138,2024-05-17,Customer B,South,Technology,Product A,730,48,9,Cancelled
+1139,2024-05-18,Customer B,Central,Office Supplies,Product B,584,233,2,In-Process
+1140,2024-05-19,Customer E,South,Technology,Product C,127,286,5,Returned
+1141,2024-05-20,Customer A,East,Furniture,Product A,813,276,9,Delivered
+1142,2024-05-21,Customer E,South,Office Supplies,Product C,138,120,9,Delivered
+1143,2024-05-22,Customer D,North,Office Supplies,Product A,372,129,8,Cancelled
+1144,2024-05-23,Customer D,South,Furniture,Product A,330,201,1,Returned
+1145,2024-05-24,Customer D,West,Office Supplies,Product A,185,20,1,Cancelled
+1146,2024-05-25,Customer D,West,Office Supplies,Product B,573,74,9,Returned
+1147,2024-05-26,Customer D,North,Technology,Product B,225,168,8,Returned
+1148,2024-05-27,Customer C,East,Office Supplies,Product C,911,156,9,Returned
+1149,2024-05-28,Customer B,West,Furniture,Product A,636,221,7,Delivered
+1150,2024-05-29,Customer D,Central,Technology,Product A,244,136,3,In-Process
+1151,2024-05-30,Customer A,West,Technology,Product B,624,173,3,Cancelled
+1152,2024-05-31,Customer A,West,Furniture,Product A,311,82,2,In-Process
+1153,2024-06-01,Customer A,East,Furniture,Product B,124,263,5,Cancelled
+1154,2024-06-02,Customer A,South,Technology,Product A,679,44,3,Returned
+1155,2024-06-03,Customer C,West,Office Supplies,Product C,493,109,6,Delivered
+1156,2024-06-04,Customer A,North,Technology,Product A,166,94,2,In-Process
+1157,2024-06-05,Customer D,South,Furniture,Product A,332,229,3,Delivered
+1158,2024-06-06,Customer E,Central,Technology,Product D,208,36,5,Cancelled
+1159,2024-06-07,Customer A,East,Furniture,Product B,245,147,1,Delivered
+1160,2024-06-08,Customer C,Central,Technology,Product A,210,270,1,Delivered
+1161,2024-06-09,Customer C,South,Office Supplies,Product A,327,198,9,In-Process
+1162,2024-06-10,Customer A,South,Technology,Product D,210,201,7,Returned
+1163,2024-06-11,Customer E,South,Technology,Product D,569,171,1,Delivered
+1164,2024-06-12,Customer A,Central,Furniture,Product B,133,44,8,Returned
+1165,2024-06-13,Customer C,South,Furniture,Product D,722,199,3,Cancelled
+1166,2024-06-14,Customer B,Central,Furniture,Product C,875,217,8,Delivered
+1167,2024-06-15,Customer D,South,Technology,Product D,468,180,5,In-Process
+1168,2024-06-16,Customer C,North,Office Supplies,Product C,847,196,1,Cancelled
+1169,2024-06-17,Customer A,South,Furniture,Product B,694,82,7,Cancelled
+1170,2024-06-18,Customer D,Central,Furniture,Product B,653,169,5,In-Process
+1171,2024-06-19,Customer A,West,Technology,Product B,524,173,6,Delivered
+1172,2024-06-20,Customer A,South,Furniture,Product B,712,175,6,Delivered
+1173,2024-06-21,Customer B,West,Office Supplies,Product B,617,68,8,Cancelled
+1174,2024-06-22,Customer D,North,Office Supplies,Product C,791,103,9,Delivered
+1175,2024-06-23,Customer D,East,Furniture,Product C,381,196,2,Returned
+1176,2024-06-24,Customer B,North,Furniture,Product B,419,167,9,In-Process
+1177,2024-06-25,Customer C,South,Technology,Product D,837,137,9,Returned
+1178,2024-06-26,Customer A,West,Office Supplies,Product A,542,82,7,Delivered
+1179,2024-06-27,Customer E,West,Office Supplies,Product B,414,208,1,Cancelled
+1180,2024-06-28,Customer A,Central,Furniture,Product D,976,68,7,In-Process
+1181,2024-06-29,Customer A,West,Technology,Product A,840,276,5,Delivered
+1182,2024-06-30,Customer C,Central,Office Supplies,Product B,476,243,6,Delivered
+1183,2024-07-01,Customer A,East,Office Supplies,Product B,388,160,7,Cancelled
+1184,2024-07-02,Customer B,South,Technology,Product C,536,234,5,Cancelled
+1185,2024-07-03,Customer B,Central,Technology,Product A,761,230,7,Returned
+1186,2024-07-04,Customer D,East,Office Supplies,Product A,376,51,9,In-Process
+1187,2024-07-05,Customer E,West,Office Supplies,Product D,809,177,3,In-Process
+1188,2024-07-06,Customer A,West,Technology,Product C,681,163,8,Cancelled
+1189,2024-07-07,Customer A,East,Office Supplies,Product C,602,38,2,Returned
+1190,2024-07-08,Customer C,West,Furniture,Product C,723,37,7,In-Process
+1191,2024-07-09,Customer B,East,Furniture,Product C,615,276,2,Cancelled
+1192,2024-07-10,Customer E,Central,Technology,Product A,449,97,4,Delivered
+1193,2024-07-11,Customer D,Central,Technology,Product A,942,194,7,In-Process
+1194,2024-07-12,Customer B,East,Technology,Product B,545,213,3,Returned
+1195,2024-07-13,Customer D,Central,Furniture,Product B,929,132,2,Returned
+1196,2024-07-14,Customer C,Central,Office Supplies,Product C,449,133,7,Returned
+1197,2024-07-15,Customer C,Central,Furniture,Product C,706,241,1,Delivered
+1198,2024-07-16,Customer A,North,Office Supplies,Product C,763,185,8,In-Process
+1199,2024-07-17,Customer E,South,Furniture,Product B,922,151,3,In-Process
+1200,2024-07-18,Customer D,West,Office Supplies,Product D,236,283,2,Delivered
