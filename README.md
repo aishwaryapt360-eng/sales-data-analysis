@@ -35,7 +35,7 @@ The dataset contains:
 - Regional Map Visualization
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+https://github.com/aishwaryapt360-eng/sales-data-analysis
 
 ## 🚀 Conclusion
 This project helps understand business performance using data analytics and visualization tools.
